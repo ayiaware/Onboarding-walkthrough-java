@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">OnBoardingWalkThrough</string>
+    <string name="dummy_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eu erat tincidunt lacus fermentum rutrum.</string>
+    <string name="button_text">Button</string>
+    <string name="button_text_previous">Previous</string>
+    <string name="button_text_next">Next</string>
+    <string name="heading_text">Heading</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_text_finish">Finish</string>
+
+
+
+    <string name="button_next">next</string>
+
+
+</resources>
